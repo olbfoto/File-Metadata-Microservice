@@ -1,0 +1,12 @@
+#main{
+  width: 500px;
+  height: 200px;
+  background-color: lightblue;
+  margin: auto;
+  border-radius:15px;
+  text-align:center;
+}
+.my-btn{
+  width: 90px;
+  height: 35px;
+}
